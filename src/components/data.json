@@ -1,67 +1,42 @@
 [
   {
     "id": 0,
-    "url": "https://via.placeholder.com/600/197d29",
-    "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+    "url": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V1_WG/Peridot/AZ2097-8x6_V1_WG_Peridot_Diamond_Diamond.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V1_WG/Peridot/200/AZ2097-8x6_V1_WG_Peridot_Diamond_Diamond.jpg"
   },
   {
     "id": 1,
-    "url": "https://via.placeholder.com/600/92c952",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    "url": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V2_WG/Peridot/AZ2097-8x6_V2_WG_Peridot_Diamond_Diamond.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V2_WG/Peridot/200/AZ2097-8x6_V2_WG_Peridot_Diamond_Diamond.jpg"
   },
   {
     "id": 2,
-    "url": "https://via.placeholder.com/600/771796",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    "url": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V3_WG/Peridot/AZ2097-8x6_V3_WG_Peridot_Diamond_Diamond.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V3_WG/Peridot/200/AZ2097-8x6_V3_WG_Peridot_Diamond_Diamond.jpg"
   },
   {
     "id": 3,
-    "url": "https://via.placeholder.com/600/24f355",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    "url": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V4_WG/Peridot/AZ2097-8x6_V4_WG_Peridot_Diamond_Diamond.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V4_WG/Peridot/200/AZ2097-8x6_V4_WG_Peridot_Diamond_Diamond.jpg"
   },
   {
     "id": 4,
-    "url": "https://via.placeholder.com/600/d32776",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    "url": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V4_WG/Peridot/AZ2097-8x6_V4_WG_Peridot_Diamond_Diamond.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V4_WG/Peridot/200/AZ2097-8x6_V4_WG_Peridot_Diamond_Diamond.jpg"
   },
   {
     "id": 5,
-    "url": "https://via.placeholder.com/600/f66b97",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    "url": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V5_WG/Peridot/AZ2097-8x6_V5_WG_Peridot_Diamond_Diamond.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/AZ2097-8x6/AZ2097-8x6_V5_WG/Peridot/200/AZ2097-8x6_V5_WG_Peridot_Diamond_Diamond.jpg"
   },
   {
     "id": 6,
-    "url": "https://via.placeholder.com/600/56a8c2",
-    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    "url": "https://cdn.azeera.com/product/design/AZ2097-8x6.jpg",
+    "thumbnailUrl": "https://cdn.azeera.com/product/design/AZ2097-8x6.jpg"
   },
   {
     "id": 7,
-    "url": "https://via.placeholder.com/600/b0f7cc",
-    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
-  },
-  {
-    "id": 8,
-    "url": "https://via.placeholder.com/600/54176f",
-    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
-  },
-  {
-    "id": 9,
-    "url": "https://via.placeholder.com/600/51aa97",
-    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
-  },
-  {
-    "id": 10,
-    "url": "https://via.placeholder.com/600/810b14",
-    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
-  },
-  {
-    "id": 11,
-    "url": "https://via.placeholder.com/600/1ee8a4",
-    "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
-  },
-  {
-    "id": 12,
-    "url": "https://via.placeholder.com/600/66b7d2",
-    "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+    "url": "https://www.azeera.com/public/AppraisalFiles/files/az2097-8x6-pr-dd-dd-wg14k.jpg?v=11",
+    "thumbnailUrl": "https://www.azeera.com/public/AppraisalFiles/files/az2097-8x6-pr-dd-dd-wg14k.jpg?v=11"
   }
 ]
