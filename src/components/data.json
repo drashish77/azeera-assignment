@@ -1,10 +1,67 @@
 [
-  "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/3396ee3c-08cc-4ada-baa9-655af12e3120/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/e44d151a-e27a-4f7b-8650-68bc2e8cd37e/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/44fc74b6-0553-4eef-a0cc-db4f815c9450/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/d3eb254d-0901-4158-956a-4610180545e5/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/3396ee3c-08cc-4ada-baa9-655af12e3120/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/e44d151a-e27a-4f7b-8650-68bc2e8cd37e/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/44fc74b6-0553-4eef-a0cc-db4f815c9450/scarpa-da-running-su-strada-invincible-3-xk5gLh.png",
-  "https://static.nike.com/a/images/f_auto,b_rgb:f5f5f5,w_440/d3eb254d-0901-4158-956a-4610180545e5/scarpa-da-running-su-strada-invincible-3-xk5gLh.png"
+  {
+    "id": 0,
+    "url": "https://via.placeholder.com/600/197d29",
+    "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+  },
+  {
+    "id": 1,
+    "url": "https://via.placeholder.com/600/92c952",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "id": 2,
+    "url": "https://via.placeholder.com/600/771796",
+    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+  },
+  {
+    "id": 3,
+    "url": "https://via.placeholder.com/600/24f355",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+  {
+    "id": 4,
+    "url": "https://via.placeholder.com/600/d32776",
+    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+  },
+  {
+    "id": 5,
+    "url": "https://via.placeholder.com/600/f66b97",
+    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+  },
+  {
+    "id": 6,
+    "url": "https://via.placeholder.com/600/56a8c2",
+    "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+  },
+  {
+    "id": 7,
+    "url": "https://via.placeholder.com/600/b0f7cc",
+    "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+  },
+  {
+    "id": 8,
+    "url": "https://via.placeholder.com/600/54176f",
+    "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+  },
+  {
+    "id": 9,
+    "url": "https://via.placeholder.com/600/51aa97",
+    "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+  },
+  {
+    "id": 10,
+    "url": "https://via.placeholder.com/600/810b14",
+    "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+  },
+  {
+    "id": 11,
+    "url": "https://via.placeholder.com/600/1ee8a4",
+    "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+  },
+  {
+    "id": 12,
+    "url": "https://via.placeholder.com/600/66b7d2",
+    "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+  }
 ]

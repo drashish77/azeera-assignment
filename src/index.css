@@ -25,6 +25,7 @@
   font-size: 30px;
   border: none;
   background-color: #fff;
+  cursor: pointer;
 }
 .symbol {
   width: 10px;
@@ -61,6 +62,7 @@ input[type="range"] {
   position: relative;
   z-index: 50;
   accent-color: #0e740e;
+  cursor: pointer;
 }
 .zoom-out {
   cursor: zoom-out;

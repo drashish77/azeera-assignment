@@ -54,15 +54,13 @@ const ProductPage = () => {
             <div className="symbol prev"></div>
           </button>
           <div className="th-wrap">
-            {dataThumbNails.map((img, idx) => (
-              <div key={idx}>
+            {dataThumbNails.map(({ id, thumbnailUrl }) => (
+              <div key={id}>
                 <img
-                  src={img}
+                  src={thumbnailUrl}
                   alt=""
-                  className={`thumbnail ${
-                    activePic === idx ? "th-active" : ""
-                  }`}
-                  onClick={() => setActivePic(idx)}
+                  className={`thumbnail ${activePic === id ? "th-active" : ""}`}
+                  onClick={() => setActivePic(id)}
                 />
               </div>
             ))}
@@ -79,7 +77,7 @@ const ProductPage = () => {
         </div>
         <div className="">
           <img
-            src={data[activePic]}
+            src={data[activePic].url}
             alt=""
             className={`active-img  ${value > 50 ? "zoom-out" : "zoom-in"}`}
             style={{ transform: `scale(${value / 50})` }}
