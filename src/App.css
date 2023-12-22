@@ -1,42 +1,130 @@
-#root {
-  max-width: 1280px;
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 4rem;
+}
+.w-inside {
+  display: flex;
+  gap: 1.5rem;
+  flex-direction: column;
+}
+.thumbnail {
+  width: 2.5rem;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 5px;
+  margin: 0 5px;
+  transition: all 1s ease-in-out;
+}
+.th-active {
+  border: 1px solid blue;
+}
+.btn {
+  padding: 0.5rem;
+  border-radius: 8px;
+  font-size: 30px;
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+}
+.symbol {
+  width: 10px;
+  margin: 8px;
+  aspect-ratio: 1/1;
+  border: 1px solid #000;
+}
+.prev {
+  border-width: 0 0 1px 1px;
+  rotate: 45deg;
+}
+.next {
+  border-width: 1px 1px 0 0;
+  rotate: 45deg;
+}
+.btn-inactive {
+  background-color: rgba(232, 121, 121, 0.3);
+  cursor: not-allowed;
+}
+.active-img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: contain;
+  border-radius: 20px;
+  max-width: 400px;
+  will-change: transform;
+  transition: all 1s ease-in-out;
+}
+input[type="range"] {
+  width: 80%;
   margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  height: 4px;
+  margin-top: 40px;
+  position: relative;
+  z-index: 50;
+  accent-color: #0e740e;
+  cursor: pointer;
 }
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
+.zoom-out {
+  cursor: zoom-out;
 }
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+.zoom-in {
+  cursor: zoom-in;
 }
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  gap: 20px;
+  align-items: center;
 }
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
+.th-wrap {
+  display: flex;
+}
+@media (min-width: 1024px) {
+  .wrap {
+    align-items: center;
+    flex-direction: row;
   }
-  to {
-    transform: rotate(360deg);
+  .w-inside {
+    flex-direction: row;
+    width: 50%;
   }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
+  .pagination {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100px;
+    gap: 20px;
   }
-}
+  .thumbnail {
+    width: 4rem;
+    border-radius: 10px;
+    margin: 5px 0;
+  }
+  .th-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+  .symbol {
+    width: 10px;
+    margin: 8px;
+  }
 
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
+  .btn {
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 30px;
+  }
+  .prev {
+    border-width: 1px 1px 0 0;
+    rotate: -45deg;
+  }
+  .next {
+    border-width: 0 1px 1px 0;
+    rotate: 45deg;
+  }
+  .active-img {
+    transform-origin: 0% 50%;
+  }
 }
